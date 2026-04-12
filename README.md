@@ -7,6 +7,9 @@ Portfolio moderne développé avec **React + Vite + TypeScript**, stylé avec **
 **Mon site déployé :**  
 https://projet-portfolio2.vercel.app/
 
+<img width="1366" height="639" alt="Capture d’écran 2026-04-12 183854" src="https://github.com/user-attachments/assets/dace7eca-46ca-49c6-bbf7-4f565bf08917" />
+
+
 ##  Objectifs du projet
 
 - Initialiser un projet React moderne avec Vite + TypeScript
@@ -60,12 +63,12 @@ src/
 
 ## Pages disponibles
 
-- Home → présentation
-- Projects → projets réalisés
-- Experience → parcours pro
-- Education → formations
-- Certifications → badges + filtre
-- Contact → contac
+ Home → présentation
+ Projects → projets réalisés
+ Experience → parcours pro
+ Education → formations
+ Certifications → badges + filtre
+ Contact → contact
 
  ## Fonctionnalités
 **UI moderne**  
@@ -150,8 +153,9 @@ https://projet-portfolio2.vercel.app/
 
 Portfolio moderne, responsive, rapide et optimisé SEO.
 
+<img width="1363" height="626" alt="Capture d’écran 2026-04-12 184124" src="https://github.com/user-attachments/assets/9e1aaca6-e165-48d4-bb9d-ba5792dae9d1" />
+
 ## Auteur
 
 Fatima-ezzahra Sahmad
 Développeuse Front-End | IA | DevOps
-
