@@ -14,10 +14,42 @@ const formations = [
       "Formation pédagogique orientée enseignement et recherche en informatique",
       "Algorithmique avancée, structures de données et programmation orientée objet",
       "Développement de compétences en conception logicielle et génie logiciel",
+      "Projets pratiques en équipe et méthodologies agiles (Scrum)",
+      "Initiation à la recherche et à l'innovation pédagogique"
     ],
-    modules: ["Algorithmique", "POO", "Réseaux", "Bases de données", "Systèmes d'exploitation"],
+    modules: [
+      "Algorithmique avancée",
+      "Programmation Orientée Objet (Java)",
+      "Réseaux et communication",
+      "Bases de données (SQL, Modélisation)",
+      "Systèmes d'exploitation (Linux, Windows Server)"
+    ],
   },
-
+  {
+    type: "Bac+1",
+    title: "Génie industriel et maintenance",
+    school: "École de Technologie Supérieure (ESTS)",
+    city: "Safi",
+    date: "2022 — 2023",
+    active: false, // terminé
+    annee: 1,
+    status: "1ère année — Complétée",
+    points: [
+      "Formation technologique en génie industriel et maintenance des équipements",
+      "Analyse des processus industriels et optimisation des flux de production",
+      "Maintenance préventive et corrective des systèmes mécaniques et électriques",
+      "Découverte des normes de sécurité et de qualité en milieu industriel",
+      "Travaux pratiques sur chaînes de production et simulateurs industriels"
+    ],
+    modules: [
+      "Mécanique du point",
+      "Électronique de base",
+      "Bases de données industrielles",
+      "Systèmes d'exploitation et automatismes",
+      "Maintenance industrielle",
+      "Gestion de production"
+    ],
+  },
 ];
 
 export default function Formations() {
