@@ -19,6 +19,14 @@ title: "App Galerie — Gestion de galerie d'art",
     tags: ["Java", "POO", "JavaFX", "SQL"],
     github: "https://github.com/fe045001-netizen/AtelierArt.git",
   },
+   {
+    title: "Plateforme de recommandation de cours e-learning",
+    desc: "Site de recommandation personnalisée de cours en ligne basé sur l'IA. Analyse les préférences de l'utilisateur et suggère des formations adaptées.",
+    year: "2025",
+    tags: [ "Python", "JavaScript", "HTML/CSS", "SQL"],
+    github: "https://github.com/ASMALAOUY/course-recommendation",
+   
+  },
 {
     title: "Matériel Management — Gestion des demandes informatiques",
     desc: "Application web pour la gestion des demandes de matériel informatique. Les utilisateurs soumettent des demandes, consultent leur état, et les administrateurs gèrent le stock, valident ou refusent les demandes et suivent l'affectation des matériels.",
@@ -36,14 +44,7 @@ title: "App Galerie — Gestion de galerie d'art",
     github: null,
   },
  
-  {
-    title: "Plateforme de recommandation de cours e-learning",
-    desc: "Site de recommandation personnalisée de cours en ligne basé sur l'IA. Analyse les préférences de l'utilisateur et suggère des formations adaptées.",
-    year: "2025",
-    tags: [ "Python", "JavaScript", "HTML/CSS", "SQL"],
-    github: null,
-   
-  },
+ 
 ];
 
 const GithubIcon = () => (
