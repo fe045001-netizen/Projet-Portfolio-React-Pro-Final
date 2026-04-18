@@ -55,8 +55,8 @@ export default function Home() {
   return (
     <>
       <Helmet>
-        <title>Sahmad Fatima-Ezzahra — Développeuse Full Stack</title>
-        <meta name="description" content="Portfolio de Fatima-Ezzahra Sahmad, développeuse full stack basée à Marrakech." />
+        <title>Sahmad Fatima-Ezzahra </title>
+        <meta name="description" content="Portfolio de Fatima-Ezzahra Sahmad." />
       </Helmet>
 
       {/* ── HERO ───────────────────────────────── */}
@@ -65,7 +65,7 @@ export default function Home() {
 
           {/* Gauche */}
           <div>
-            <p className="hero-eyebrow">Développeuse Full Stack</p>
+  
             <h1 className="hero-title">
               Fatima-Ezzahra<br />Sahmad
             </h1>
