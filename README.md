@@ -5,7 +5,7 @@ Portfolio moderne développé avec **React + Vite + TypeScript**, stylé avec **
 ##  Lien du site en ligne (Vercel)
 
 **Mon site déployé :**  
-https://projet-portfolio2.vercel.app/
+https://projet-portfolio-react-pro-final-vl.vercel.app/
 
 <img width="1366" height="639" alt="Capture d’écran 2026-04-12 183854" src="https://github.com/user-attachments/assets/dace7eca-46ca-49c6-bbf7-4f565bf08917" />
 
@@ -147,7 +147,7 @@ Output directory: dist
 
 Une fois déployé, ton site sera disponible ici :
 
-https://projet-portfolio2.vercel.app/
+https://projet-portfolio-react-pro-final-vl.vercel.app/
 
 ## Aperçu
 
