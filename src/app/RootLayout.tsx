@@ -14,7 +14,7 @@ export default function RootLayout() {
         <div className="nav-right">
           <div className="links">
             <NavLink to="/projects" className={({ isActive }) => isActive ? "active" : ""}>Projets</NavLink>
-            <NavLink to="/experience" className={({ isActive }) => isActive ? "active" : ""}>Parcours</NavLink>
+            <NavLink to="/experience" className={({ isActive }) => isActive ? "active" : ""}>Experience</NavLink>
             <NavLink to="/education" className={({ isActive }) => isActive ? "active" : ""}>Formations</NavLink>
             <NavLink to="/certifications" className={({ isActive }) => isActive ? "active" : ""}>Certifications</NavLink>
             <NavLink to="/contact" className={({ isActive }) => isActive ? "active" : ""}>Contact</NavLink>
