@@ -26,7 +26,7 @@ export default function Contact() {
             { label: "Nom", value: "Fatima-Ezzahra Sahmad" },
             { label: "Email", value: "f.sahmad6480@uca.ac.ma" },
             { label: "Localisation", value: "Marrakech, Maroc" },
-            { label: "Profil", value: "Développeuse Full Stack" },
+            { label: "Profil", value: "Etudiant" },
           ].map(({ label, value }) => (
             <div key={label} style={{ marginBottom: "1rem" }}>
               <div style={{ fontSize: 11, color: "#64748b", textTransform: "uppercase", letterSpacing: ".08em", marginBottom: 4 }}>{label}</div>
