@@ -155,20 +155,15 @@ header {
 body.light header { background: rgba(255,255,255,0.90); }
 .nav {
   display: flex;
-  justify-content: flex-end; /* tout à droite */
+  justify-content: space-between;
   align-items: center;
   height: 60px;
   gap: 20px;
 }
-
-/* logo à gauche si tu le gardes */
 .logo {
-  position: absolute;
-  left:160px;
-  font-size: 22px; 
+  font-size: 22px;
   font-weight: 800;
 }
-
 /* bloc droite */
 .nav-right {
   display: flex;
